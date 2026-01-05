@@ -1,2 +1,6 @@
-# git-practice
-git 십습용 저장소
+# \#git-practice
+
+git \& github 실습용 저장소
+
+\- 작성일자: 2026. 1. 5
+
